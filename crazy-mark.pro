@@ -53,7 +53,10 @@ QML_FILES += $$files(*.qml,true) \
              $$files(*.js,true)
 
 CONF_FILES +=  click/crazy-mark.apparmor \
-               icon.png
+               icon.png \
+               icon.svg \
+               splash.png \
+               logo.png
 
 #show all the files in QtCreator
 OTHER_FILES += $${CONF_FILES} \

@@ -1,7 +1,9 @@
 [Desktop Entry]
-Name=Crazy Mark
+Name=Gimped Mark
 Exec=crazy-mark
 Icon=icon.png
+X-Ubuntu-Splash-Color=#999999
+X-Ubuntu-Splash-Image=splash.png
 Terminal=false
 Type=Application
 X-Ubuntu-Touch=true

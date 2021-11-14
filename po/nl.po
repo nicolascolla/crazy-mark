@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-14 04:15+0000\n"
+"POT-Creation-Date: 2021-11-14 05:07+0000\n"
 "PO-Revision-Date: 2016-08-24 16:41+0000\n"
 "Last-Translator: Tim Süberkrüb <account@timsueberkrueb.io>, 2020\n"
 "Language-Team: Dutch (https://www.transifex.com/tim-sueberkrueb/teams/66309/"
@@ -273,7 +273,7 @@ msgid "Options"
 msgstr "Opties"
 
 #: /home/nicolas/crazy-mark/src/qml/MarkPanel.qml:149
-#: /home/nicolas/crazy-mark/src/qml/MarkSettingsPage.qml:167
+#: /home/nicolas/crazy-mark/src/qml/MarkSettingsPage.qml:149
 msgid "Auto completion"
 msgstr "Automatisch aanvullen"
 
@@ -346,23 +346,19 @@ msgstr "Uiterlijk"
 msgid "Start with expanded toolbar"
 msgstr "Werkbalk automatisch uitklappen"
 
-#: /home/nicolas/crazy-mark/src/qml/MarkSettingsPage.qml:146
-msgid "Open preview on startup"
-msgstr "Voorvertoning automatisch openen"
-
-#: /home/nicolas/crazy-mark/src/qml/MarkSettingsPage.qml:182
+#: /home/nicolas/crazy-mark/src/qml/MarkSettingsPage.qml:164
 msgid "Default bullet character"
 msgstr "Standaard opsommingsteken"
 
-#: /home/nicolas/crazy-mark/src/qml/MarkSettingsPage.qml:184
+#: /home/nicolas/crazy-mark/src/qml/MarkSettingsPage.qml:166
 msgid "Hyphen\t-"
 msgstr "Streepje\t-"
 
-#: /home/nicolas/crazy-mark/src/qml/MarkSettingsPage.qml:185
+#: /home/nicolas/crazy-mark/src/qml/MarkSettingsPage.qml:167
 msgid "Asterisk\t*"
 msgstr "Sterretje\t*"
 
-#: /home/nicolas/crazy-mark/src/qml/MarkSettingsPage.qml:186
+#: /home/nicolas/crazy-mark/src/qml/MarkSettingsPage.qml:168
 msgid "Plus\t+"
 msgstr "Plus\t+"
 
@@ -393,6 +389,9 @@ msgstr "Gemaakte documenten en mappen worden hier getoond."
 #: /home/nicolas/crazy-mark/src/qml/mark.js:2
 msgid "word"
 msgstr "woord"
+
+#~ msgid "Open preview on startup"
+#~ msgstr "Voorvertoning automatisch openen"
 
 #~ msgid "Preview"
 #~ msgstr "Voorvertoning"

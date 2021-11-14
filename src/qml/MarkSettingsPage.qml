@@ -133,24 +133,6 @@ Page {
                 spacing: units.gu(1)
 
                 CheckBox {
-                    onCheckedChanged: {
-                        settings.openPreview = checked;
-                        settings.save();
-                    }
-                    Component.onCompleted: {
-                        checked = settings.openPreview;
-                    }
-                }
-
-                Label {
-                    text: i18n.tr("Open preview on startup")
-                }
-            }
-
-            Row {
-                spacing: units.gu(1)
-
-                CheckBox {
                     id: checkboxAutoCompletion
                     onTriggered: {
                         settings.autoCompletion = !settings.autoCompletion;

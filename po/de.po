@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-14 04:15+0000\n"
+"POT-Creation-Date: 2021-11-14 05:07+0000\n"
 "PO-Revision-Date: 2016-08-24 16:41+0000\n"
 "Last-Translator: Tim Süberkrüb <account@timsueberkrueb.io>, 2020\n"
 "Language-Team: German (https://www.transifex.com/tim-sueberkrueb/teams/66309/"
@@ -271,7 +271,7 @@ msgid "Options"
 msgstr "Optionen"
 
 #: /home/nicolas/crazy-mark/src/qml/MarkPanel.qml:149
-#: /home/nicolas/crazy-mark/src/qml/MarkSettingsPage.qml:167
+#: /home/nicolas/crazy-mark/src/qml/MarkSettingsPage.qml:149
 msgid "Auto completion"
 msgstr "Autovervollständigung"
 
@@ -341,23 +341,19 @@ msgstr "Benutzeroberfläche"
 msgid "Start with expanded toolbar"
 msgstr "Starte mit erweiterter Toolbar"
 
-#: /home/nicolas/crazy-mark/src/qml/MarkSettingsPage.qml:146
-msgid "Open preview on startup"
-msgstr "Öffne Vorschau beim Start"
-
-#: /home/nicolas/crazy-mark/src/qml/MarkSettingsPage.qml:182
+#: /home/nicolas/crazy-mark/src/qml/MarkSettingsPage.qml:164
 msgid "Default bullet character"
 msgstr "Aufzählungszeichen"
 
-#: /home/nicolas/crazy-mark/src/qml/MarkSettingsPage.qml:184
+#: /home/nicolas/crazy-mark/src/qml/MarkSettingsPage.qml:166
 msgid "Hyphen\t-"
 msgstr "Bindestrich\t-"
 
-#: /home/nicolas/crazy-mark/src/qml/MarkSettingsPage.qml:185
+#: /home/nicolas/crazy-mark/src/qml/MarkSettingsPage.qml:167
 msgid "Asterisk\t*"
 msgstr "Sternchen\t*"
 
-#: /home/nicolas/crazy-mark/src/qml/MarkSettingsPage.qml:186
+#: /home/nicolas/crazy-mark/src/qml/MarkSettingsPage.qml:168
 msgid "Plus\t+"
 msgstr "Pluszeichen\t+"
 
@@ -388,6 +384,9 @@ msgstr "Von Ihnen erstellte Dokumente oder Ordner werden hier auftauchen."
 #: /home/nicolas/crazy-mark/src/qml/mark.js:2
 msgid "word"
 msgstr "Wort"
+
+#~ msgid "Open preview on startup"
+#~ msgstr "Öffne Vorschau beim Start"
 
 #~ msgid "Preview"
 #~ msgstr "Vorschau"

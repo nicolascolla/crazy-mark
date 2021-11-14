@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-14 04:15+0000\n"
+"POT-Creation-Date: 2021-11-14 05:07+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -255,7 +255,7 @@ msgid "Options"
 msgstr ""
 
 #: /home/nicolas/crazy-mark/src/qml/MarkPanel.qml:149
-#: /home/nicolas/crazy-mark/src/qml/MarkSettingsPage.qml:167
+#: /home/nicolas/crazy-mark/src/qml/MarkSettingsPage.qml:149
 msgid "Auto completion"
 msgstr ""
 
@@ -320,23 +320,19 @@ msgstr ""
 msgid "Start with expanded toolbar"
 msgstr ""
 
-#: /home/nicolas/crazy-mark/src/qml/MarkSettingsPage.qml:146
-msgid "Open preview on startup"
-msgstr ""
-
-#: /home/nicolas/crazy-mark/src/qml/MarkSettingsPage.qml:182
+#: /home/nicolas/crazy-mark/src/qml/MarkSettingsPage.qml:164
 msgid "Default bullet character"
 msgstr ""
 
-#: /home/nicolas/crazy-mark/src/qml/MarkSettingsPage.qml:184
+#: /home/nicolas/crazy-mark/src/qml/MarkSettingsPage.qml:166
 msgid "Hyphen\t-"
 msgstr ""
 
-#: /home/nicolas/crazy-mark/src/qml/MarkSettingsPage.qml:185
+#: /home/nicolas/crazy-mark/src/qml/MarkSettingsPage.qml:167
 msgid "Asterisk\t*"
 msgstr ""
 
-#: /home/nicolas/crazy-mark/src/qml/MarkSettingsPage.qml:186
+#: /home/nicolas/crazy-mark/src/qml/MarkSettingsPage.qml:168
 msgid "Plus\t+"
 msgstr ""
 

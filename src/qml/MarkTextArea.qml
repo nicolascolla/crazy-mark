@@ -12,6 +12,7 @@ TextArea {
     signal renderRequested()
 
     font.family: "Ubuntu Mono"
+    font.pixelSize: units.dp(20)
     persistentSelection: true
     wrapMode: TextEdit.WordWrap
 

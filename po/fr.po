@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-14 04:15+0000\n"
+"POT-Creation-Date: 2021-11-14 05:07+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Anne017 <anneonyme017@gmail.com>, 2016\n"
 "Language-Team: French (https://www.transifex.com/tim-sueberkrueb/teams/66309/"
@@ -271,7 +271,7 @@ msgid "Options"
 msgstr "Options"
 
 #: /home/nicolas/crazy-mark/src/qml/MarkPanel.qml:149
-#: /home/nicolas/crazy-mark/src/qml/MarkSettingsPage.qml:167
+#: /home/nicolas/crazy-mark/src/qml/MarkSettingsPage.qml:149
 msgid "Auto completion"
 msgstr "Auto-complétion"
 
@@ -345,23 +345,19 @@ msgstr "Interface"
 msgid "Start with expanded toolbar"
 msgstr "Démarrer avec un barre d'outils étendue"
 
-#: /home/nicolas/crazy-mark/src/qml/MarkSettingsPage.qml:146
-msgid "Open preview on startup"
-msgstr "Ouvrir l'aperçu au démarrage"
-
-#: /home/nicolas/crazy-mark/src/qml/MarkSettingsPage.qml:182
+#: /home/nicolas/crazy-mark/src/qml/MarkSettingsPage.qml:164
 msgid "Default bullet character"
 msgstr "Symbole de puce par défaut pour les listes"
 
-#: /home/nicolas/crazy-mark/src/qml/MarkSettingsPage.qml:184
+#: /home/nicolas/crazy-mark/src/qml/MarkSettingsPage.qml:166
 msgid "Hyphen\t-"
 msgstr "Trait d'union\t-"
 
-#: /home/nicolas/crazy-mark/src/qml/MarkSettingsPage.qml:185
+#: /home/nicolas/crazy-mark/src/qml/MarkSettingsPage.qml:167
 msgid "Asterisk\t*"
 msgstr "Astérisque\t*"
 
-#: /home/nicolas/crazy-mark/src/qml/MarkSettingsPage.qml:186
+#: /home/nicolas/crazy-mark/src/qml/MarkSettingsPage.qml:168
 msgid "Plus\t+"
 msgstr "Plus\t+"
 
@@ -392,6 +388,9 @@ msgstr "Les documents ou les dossiers que vous créerez s'afficheront ici."
 #: /home/nicolas/crazy-mark/src/qml/mark.js:2
 msgid "word"
 msgstr "mot"
+
+#~ msgid "Open preview on startup"
+#~ msgstr "Ouvrir l'aperçu au démarrage"
 
 #~ msgid "Preview"
 #~ msgstr "Aperçu"

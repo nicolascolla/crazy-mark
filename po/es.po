@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-14 04:15+0000\n"
+"POT-Creation-Date: 2021-11-14 05:07+0000\n"
 "PO-Revision-Date: 2018-03-02 13:01+0100\n"
 "Last-Translator: advocatux <advocatux@airpost.net>\n"
 "Language-Team: UBports Spanish Team\n"
@@ -264,7 +264,7 @@ msgid "Options"
 msgstr "Opciones"
 
 #: /home/nicolas/crazy-mark/src/qml/MarkPanel.qml:149
-#: /home/nicolas/crazy-mark/src/qml/MarkSettingsPage.qml:167
+#: /home/nicolas/crazy-mark/src/qml/MarkSettingsPage.qml:149
 msgid "Auto completion"
 msgstr "Autocompletado"
 
@@ -336,23 +336,19 @@ msgstr "Interfaz"
 msgid "Start with expanded toolbar"
 msgstr "Comenzar con la barra de herramientas expandida"
 
-#: /home/nicolas/crazy-mark/src/qml/MarkSettingsPage.qml:146
-msgid "Open preview on startup"
-msgstr "Abrir vista previa al arrancar"
-
-#: /home/nicolas/crazy-mark/src/qml/MarkSettingsPage.qml:182
+#: /home/nicolas/crazy-mark/src/qml/MarkSettingsPage.qml:164
 msgid "Default bullet character"
 msgstr "Carácter de viñeta predeterminado"
 
-#: /home/nicolas/crazy-mark/src/qml/MarkSettingsPage.qml:184
+#: /home/nicolas/crazy-mark/src/qml/MarkSettingsPage.qml:166
 msgid "Hyphen\t-"
 msgstr "Guión\t-"
 
-#: /home/nicolas/crazy-mark/src/qml/MarkSettingsPage.qml:185
+#: /home/nicolas/crazy-mark/src/qml/MarkSettingsPage.qml:167
 msgid "Asterisk\t*"
 msgstr "Asterisco\t*"
 
-#: /home/nicolas/crazy-mark/src/qml/MarkSettingsPage.qml:186
+#: /home/nicolas/crazy-mark/src/qml/MarkSettingsPage.qml:168
 msgid "Plus\t+"
 msgstr "Mas\t+"
 
@@ -383,6 +379,9 @@ msgstr "Los documentos o carpetas que cree se mostrarán aquí."
 #: /home/nicolas/crazy-mark/src/qml/mark.js:2
 msgid "word"
 msgstr "palabra"
+
+#~ msgid "Open preview on startup"
+#~ msgstr "Abrir vista previa al arrancar"
 
 #~ msgid "Preview"
 #~ msgstr "Vista previa"
