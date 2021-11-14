@@ -1,15 +1,14 @@
-# Crazy Mark
+# Gimped Mark
 
-[![License](https://img.shields.io/badge/license-GPLv3.0-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
-[![GitHub release](https://img.shields.io/github/release/timsueberkrueb/crazy-mark.svg)](https://github.com/timsueberkrueb/crazy-mark/releases)
-[![GitHub issues](https://img.shields.io/github/issues/timsueberkrueb/crazy-mark.svg)](https://github.com/timsueberkrueb/crazy-mark/issues)
-[![Maintained](https://img.shields.io/maintenance/yes/2018.svg)](https://github.com/timsueberkrueb/crazy-mark/commits/develop)
+![](iconsmall.png)
 
-A simple markdown editor for Ubuntu
+[![OpenStore](https://open-store.io/badges/en_US.png)](https://open-store.io/app/gimped-mark.collaproductions)
 
-Crazy Mark is available for download from the [Open Store](https://open-store.io/app/crazy-mark.timsueberkrueb).
+Quick fork of [Crazy Mark](https://github.com/timsueberkrueb/crazy-mark), which started crashing at launch when UT dropped the old web browser, used for the document preview panel. The crash has been fixed, but the preview needs to be adapted, hence the need for a gimped version with the feature removed until it can be fixed.
 
-## Dependencies
+The original codebase is available in the `develop` branch and more information can be found in the [issue 1 of this repo](https://github.com/nicolascolla/gimped-mark/issues/1).
+
+### Dependencies
 
 Qt >= 5.4.0 with at least the following modules is required:
 
@@ -22,7 +21,7 @@ The following modules and their dependencies are required:
  * [Ubuntu UI Toolkit 1.3](https://github.com/ubports/ubuntu-ui-toolkit)
 
 
-## Installation
+### Installation
 
 We use [clickable](http://clickable.bhdouglass.com/).
 
