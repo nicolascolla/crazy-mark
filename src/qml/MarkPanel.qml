@@ -50,14 +50,6 @@ Panel {
             onTriggered: {
                 contentManager.askCloseEditor();
             }
-        },
-        Action {
-            text: i18n.tr("Preview")
-            iconName: "slideshow"
-            onTriggered: {
-              pageView.addPageToNextColumn(primaryPage, viewPage, {});
-            }
-            shortcut: "F5"
         }
     ]
 

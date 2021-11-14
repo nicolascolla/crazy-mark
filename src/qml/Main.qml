@@ -38,16 +38,6 @@ Window {
             primaryPage: primaryPage
 
             layouts: [
-                // two columns
-                PageColumnsLayout {
-                    when: pageView.width > units.gu(80)
-                    PageColumn {
-                        fillWidth: true
-                    }
-                    PageColumn {
-                        fillWidth: true
-                    }
-                },
                 // single column
                 PageColumnsLayout {
                     when: true

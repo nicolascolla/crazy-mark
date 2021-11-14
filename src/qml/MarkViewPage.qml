@@ -4,10 +4,6 @@ import Ubuntu.Components 1.3
 Page {
     property MarkView markView: markView
 
-    header: MarkHeader {
-        title: i18n.tr("Preview")
-    }
-
     MarkView {
         id: markView
         anchors {
