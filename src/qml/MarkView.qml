@@ -1,6 +1,6 @@
 import QtQuick 2.0
-import com.canonical.Oxide 1.9
-import Ubuntu.Web 0.2
+import QtWebEngine 1.7
+import Morph.Web 0.1
 
 
 WebView {
@@ -8,16 +8,6 @@ WebView {
     objectName: "markView"
 
     readonly property string usContext: "oxide://"
-
-    context: WebContext {
-        id: webcontext
-        userScripts: UserScript {
-            id: userScript
-            objectName: "userScript"
-            context: webview.usContext
-            url: userScriptUrl
-        }
-    }
 
     onJavaScriptConsoleMessage: {
         if (level == WebView.LogSeverityInfo)   {
