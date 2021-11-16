@@ -3,6 +3,7 @@
 ![](iconsmall.png)
 
 [![OpenStore](https://open-store.io/badges/en_US.png)](https://open-store.io/app/gimped-mark.collaproductions)
+[![](https://i.imgur.com/KIipzE8.png)](https://t.me/collaproductions)
 
 Quick fork of [Crazy Mark](https://github.com/timsueberkrueb/crazy-mark), which started crashing at launch when UT dropped the old web browser, used for the document preview panel. The crash has been fixed, but the preview needs to be adapted, hence the need for a gimped version with the feature removed until it can be fixed.
 
